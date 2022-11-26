@@ -1,0 +1,9 @@
+{
+    "filepath": "src/",
+    "singleQuote": false,
+    "useTabs": true,
+    "tabWidth": 4,
+    "bracketSpacing": true,
+    "bracketSameLine": true,
+    "semi": true
+}
